@@ -1,5 +1,5 @@
-# UCLA-Projects
-## Technical Projects for Six-month Cybersecurity Certificate Program
+# Relevant Experience Portfolio
+## Technical Projects for UCLA Extension Six-month Cybersecurity Certificate Program
 # 
 ### Project 1: Securing a Cloud Application
 #### Designed, built, and hardened Azure-hosted virtual network for cyber blog web application with original written content
