@@ -1,7 +1,8 @@
 # Relevant Experience Portfolio
 ## Technical Projects for Six-month UCLA Cybersecurity Certificate Program
 ### Project 1: Securing a Cloud Application
-#### Designed, built, and hardened Azure-hosted virtual network for cyber blog web application with original written content. Tools used: Azure (Cloud Services, Key Vault, App Services, Front Door, WAF), PHP, HTML, Docker, OpenSSL
+#### Designed, built, and hardened Azure-hosted virtual network for cyber blog web application with original written content.
+Tools used: Azure (Cloud Services, Key Vault, App Services, Front Door, WAF), PHP, HTML, Docker, OpenSSL
 ### Projects 2 & 3: Penetration Tests for Fictional Companies
 #### Reconnoitered, scanned, and exploited vulnerabilities in web application and Linux/Windows hosts to extract user credentials, escalate privileges, and establish persistence, then authored written reports with analysis and remediations. Tools used: Tools used: OSINT, Shodan, Recon-ng, Burp Suite, Kali Linux, nmap, Zenmap w/NSE scripts, Nessus, Searchsploit, Responder, Metasploit, MSFvenom, Meterpreter, John the Ripper, Python scripts, MITRE ATT&CK matrix
 #### Project 2: Penetration Test - MegaCorpOne (a fictional company)
