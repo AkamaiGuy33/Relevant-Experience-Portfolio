@@ -9,6 +9,6 @@ Tools used: Azure (Cloud Services, Key Vault, App Services, Front Door, WAF), PH
 #### Project 3: Penetration Test - Rekall Corporation (a fictional company)
 Tools used: Tools used: OSINT, Shodan, Recon-ng, Burp Suite, Kali Linux, nmap, Zenmap w/NSE scripts, Nessus, Searchsploit, Responder, Metasploit, MSFvenom, Meterpreter, John the Ripper, Python scripts, MITRE ATT&CK matrix
 ### Project 4: Security Monitoring Environment - Virtual Space Industries (a fictional company)
-#### Within a small team, built custom monitoring solution using Splunk Enterprise Security, subjected it to series of simulated attacks, then co-authored/presented management-level report analyzing attacks and environment performance
+#### Within a small team, built custom monitoring solution using Splunk Enterprise Security, subjected it to series of simulated attacks, then co-authored/co-presented management-level report analyzing attacks and environment performance
 ### Project 5: Demonstration of a Cybersecurity Tool - AutoRecon
-#### Authored and co-presented demonstration of multi-threaded, configurable, pattern-matching network reconnaissance tool for automated background enumeration of ports/services into organized directories for efficient analysis and reporting
+#### Co-authored/co-presented demonstration of multi-threaded, configurable, pattern-matching network reconnaissance tool for automated background enumeration of ports/services into organized directories for efficient analysis and reporting
