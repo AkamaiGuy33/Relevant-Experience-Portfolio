@@ -1,5 +1,5 @@
 # Relevant Experience Portfolio
-## Technical Projects for Six-month UCLA Cybersecurity Certificate Program
+## Technical Projects for Six-Month UCLA Cybersecurity Certificate Boot Camp
 ### Project 1: Securing a Cloud Application
 #### Designed, built, and hardened Azure-hosted virtual network for cyber blog web application with original written content.
 Tools used: Azure (Cloud Services, Key Vault, App Services, Front Door, WAF), PHP, HTML, Docker, OpenSSL
