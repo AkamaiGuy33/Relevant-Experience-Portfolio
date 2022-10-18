@@ -1,4 +1,4 @@
 # Relevant-Experience-Portfolio
 
-## UCLA-Cybersecurity-Certificate
-### Technical Projects for Six-month UCLA Cybersecurity Certificate Program contained in this directory
+## Directory: UCLA-Cybersecurity-Certificate
+### Five technical projects completed during UCLA's six-month intensive Cybersecurity Certificate Boot Camp
