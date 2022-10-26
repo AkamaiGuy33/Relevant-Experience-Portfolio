@@ -1,3 +1,3 @@
 # Relevant-Experience-Portfolio
 
-### The "UCLA-Cybersecurity-Certificate" directory contains five technical projects completed during six-month intensive boot camp
+### The "UCLA-Cybersecurity-Certificate" directory contains five technical projects completed during UCLA Extension six-month intensive boot camp
